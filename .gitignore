@@ -6,6 +6,7 @@ auth_keys.py
 # C extensions
 *.so
 .idea/
+linkedinvenv/
 # Distribution / packaging
 .Python
 env/
