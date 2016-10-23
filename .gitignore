@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+auth_keys.py
 # C extensions
 *.so
-
+.idea/
 # Distribution / packaging
 .Python
 env/
